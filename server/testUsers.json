@@ -1,0 +1,33 @@
+[{
+    "_id": "5f0566266f6b8742f4822a10",
+    "email": "test1@example.com",
+    "password": "$2a$12$C0foJuGwJdTQymOPGAAle.0OF1.s.Pznqq6xUSsv7eMNkxBP/ALMC",
+    "phone": 1234567890,
+    "__v": 0,
+    "id": "5f0566266f6b8742f4822a10"
+  },
+  {
+    "_id": "5f05662d6f6b8742f4822a11",
+    "email": "test2@example.com",
+    "password": "$2a$12$0lSbGekNT8.qfgGZOPVpKOqLw.2kvG5uulbeAswT4KkrouPtgU0uW",
+    "phone": 1234567890,
+    "__v": 0,
+    "id": "5f05662d6f6b8742f4822a11"
+  },
+  {
+    "_id": "5f0566316f6b8742f4822a12",
+    "email": "test3@example.com",
+    "password": "$2a$12$ZWKxZ8BEDlN5U1G4byMufuF.fraNWM35aiLR5DlXErWKbqkcI6HjS",
+    "phone": 1234567890,
+    "__v": 0,
+    "id": "5f0566316f6b8742f4822a12"
+  },
+  {
+    "_id": "5f0566346f6b8742f4822a13",
+    "email": "test4@example.com",
+    "password": "$2a$12$7Miz1cD8dtUQU2dHuv4LFeUharYWoX.NdmF44wtom9fMm./pHcW/2",
+    "phone": 1234567890,
+    "__v": 0,
+    "id": "5f0566346f6b8742f4822a13"
+  }
+]

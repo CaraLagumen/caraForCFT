@@ -1,0 +1,20 @@
+{
+  "name": "caraforcft",
+  "version": "1.0.0",
+  "description": "CFT Techinical Assessment",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Cara Lagumen",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mockgoose": "^8.0.4",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.22",
+    "validator": "^13.1.1"
+  }
+}
