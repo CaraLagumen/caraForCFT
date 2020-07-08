@@ -15,9 +15,11 @@ Run `npm i` then `npm start` on **master folder**.
 	3. An event is created with each successful or failed login.
 	4. Check events with `GET localhost:3000/api/events`.
 
-Server:
-localhost:3000/api/users
-localhost:3000/api/events
+**Server:**
+
+`localhost:3000/api/users`
+
+`localhost:3000/api/events`
 
 ### Optional
 Import data from test jsons in **server folder**.
