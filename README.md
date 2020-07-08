@@ -10,7 +10,7 @@ A RESTful API in ~4 hours
 
 Run `npm i` then `npm start` on **master folder**.
 
-	1. Create a user `GET localhost:3000/api/users` or import data shown below.
+	1. Create a user `POST localhost:3000/api/users` or import data shown below.
 	2. Authenticate with user `POST localhost:3000/api/users/login`.
 	3. An event is created with each successful or failed login.
 	4. Check events with `GET localhost:3000/api/events`.
